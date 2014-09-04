@@ -5,8 +5,11 @@ This project has 3 flows: collect => analyze => store. The flows communicate usi
 
 TODO:
 1. Connect your device to the collect flow
+
 2. Implement analysis logic in the analyze flow
-3. Connect
+
+3. Store your messages in the store flow using m2x
+
 
 
 

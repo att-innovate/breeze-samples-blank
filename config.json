@@ -1,1 +1,46 @@
-[]
+[
+    {
+        "id": "b9477e3c.46b88",
+        "type": "rabbitmq server",
+        "host": "",
+        "port": "",
+        "configKey": "rabbitmq",
+        "name": "rabbitmq"
+    },
+    {
+        "id": "aad29d84.552d6",
+        "type": "flow server",
+        "port": "8004",
+        "name": "collect",
+        "configKey": "nodes/collect",
+        "flowFile": "collect.json",
+        "httpStatic": "",
+        "httpNodeRoot": "api",
+        "httpAdminRoot": "admin",
+        "configFile": "config"
+    },
+    {
+        "id": "76f7154e.8908ec",
+        "type": "flow server",
+        "port": "8003",
+        "name": "analyze",
+        "configKey": "nodes/analyze",
+        "flowFile": "analyze.json",
+        "httpStatic": "",
+        "httpNodeRoot": "api",
+        "httpAdminRoot": "admin",
+        "configFile": "config.json"
+    },
+    {
+        "id": "f1ae1126.0e51f",
+        "type": "flow server",
+        "port": "8000",
+        "name": "store",
+        "configKey": "nodes/store",
+        "flowFile": "store.json",
+        "httpStatic": "",
+        "httpNodeRoot": "api",
+        "httpAdminRoot": "admin",
+        "configFile": "config.json"
+    }
+]

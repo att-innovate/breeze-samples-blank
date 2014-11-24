@@ -4,6 +4,7 @@
         "type": "flow server",
         "name": "flow",
         "flowFile": "flow.json",
-        "configFile": "config.json"
+        "configFile": "config.json",
+        "hosted": true
    }
 ]

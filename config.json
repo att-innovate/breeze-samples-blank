@@ -5,6 +5,7 @@
         "name": "flow",
         "flowFile": "flow.json",
         "configFile": "config.json",
+        "httpAdminRoot": "admin",
         "hosted": true
    }
 ]

@@ -1,15 +1,26 @@
-Breeze M2M App
-==============
+\<Name\>
+======
+\<Add a name for your entire flow. Ideally it should give a clear picture of what this flow does\>
 
-This project has 3 flows: collect => analyze => store. The flows communicate using a rabbitmq broker.
+Explanation 
+===========
+\<Explain what the flow does\>
 
-TODO:
+Prerequisites / Preconditions / Assumptions
+=======================================
+\<Specify conditions that must exist before running this flow, and / or any implications of running this flow\>
 
-1. Connect your device to the collect flow
+General Flow Description 
+========================
+\<Provide a general overview of the flow itself\>
 
-2. Implement analysis logic in the analyze flow
+Detailed Implementation
+=======================
+\<Present an overall recap of the steps taken to create this flow\>
 
-3. Store your messages in the store flow using m2x
+Useful Info
+===========
+\<Add any miscellaneous info that would help whoever uses this flow, for example links to outside sources\>
 
 
 

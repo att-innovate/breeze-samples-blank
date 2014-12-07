@@ -1,4 +1,4 @@
-\<Name\>
+\<My Project Name\>
 ======
 \<Add a name for your entire flow. Ideally it should give a clear picture of what this flow does\>
 

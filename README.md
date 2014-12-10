@@ -4,7 +4,7 @@
 
 Prerequisites
 -------------
-\<Specify conditions that must exist before running this flow, and / or any implications of running this flow\>
+\<Specify conditions that must exist before running this flow\>
 
 Flow description
 -----------------

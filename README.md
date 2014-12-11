@@ -1,6 +1,6 @@
 \<My Project Name\>
 ====================
-\<Explain what the flow does in a nutshell\>
+\<In a nutshell explain what the flow does\>
 
 Prerequisites
 -------------

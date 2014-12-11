@@ -13,7 +13,7 @@ Flow description
 -----------------
 \<Provide a general overview of this flow\>
 
-Additional Information
+Additional information
 ----------------------
 \<Add any information you feel is relevant for this flow\>
 

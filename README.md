@@ -3,7 +3,7 @@
 
 In a nutshell
 -----------------
-\<Provide an abstract of what the flow does\>
+\<Provide an abstract of what this flow does\>
 
 Prerequisites
 -------------
@@ -11,11 +11,11 @@ Prerequisites
 
 Flow description
 -----------------
-\<Provide a general overview of the flow\>
+\<Provide a general overview of this flow\>
 
 Additional Information
 ----------------------
-\<Add any information you feel is relevant for this flow, for example links to outside sources\>
+\<Add any information you feel is relevant for this flow\>
 
 
 
